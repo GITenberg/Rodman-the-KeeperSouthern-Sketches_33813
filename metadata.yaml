@@ -1,0 +1,33 @@
+_repo: Rodman-the-KeeperSouthern-Sketches_33813
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33813-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: Rodman the Keeper -- Sister St. Luke -- Miss Elizabetha -- Old Gardiston
+  -- The South Devil -- In the Cotton Country -- Felipa -- "Bro." -- King David --
+  Up in the Blue Ridge
+title: 'Rodman the Keeper: Southern Sketches'
+url: http://www.gutenberg.org/ebooks/33813
